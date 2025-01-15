@@ -7,11 +7,6 @@ body {
   color: black;
 }
 
-header {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
 header h1 {
   color: solid seagreen; 
   margin: 10px;
