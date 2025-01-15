@@ -1,25 +1,13 @@
-/* General Styles */
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #f9f9f9;
-  color: #333;
+  background-color: aliceblue; 
+  color: darkslategray;
 }
 
-/* Container */
-.container {
-  width: 90%;
-  max-width: 800px;
-  margin: 20px auto;
-  background: #fff;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
 
-/* Header Section */
 header {
   text-align: center;
   margin-bottom: 20px;
@@ -27,42 +15,36 @@ header {
 
 header h1 {
   font-size: 2rem;
-  color: #4CAF50;
+  color: green; 
   margin: 10px 0;
 }
 
 header img {
   border-radius: 50%;
-  margin: 10px 0;
+  margin: 10px;
+  border: 2px solid seagreen; 
 }
 
 header p {
-  font-size: 1rem;
-  color: #555;
+  font-size: 1;
+  color: gray; 
 }
 
-/* Links */
 a {
-  color: #4CAF50;
-  text-decoration: none;
+  color: dodgerblue;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
-/* Sections */
 .content h3 {
-  font-size: 1.5rem;
-  color: #333;
-  border-bottom: 2px solid #4CAF50;
+  font-size: 1.5;
+  color: seagreen;
+  border-bottom: 2px solid lightseagreen; 
   padding-bottom: 5px;
   margin-bottom: 10px;
 }
 
 .content p {
   font-size: 1rem;
-  color: #555;
+  color: black;
   margin: 10px 0;
 }
 
@@ -74,12 +56,6 @@ a:hover {
 
 .content ul li {
   margin: 5px 0;
+  color: darkred;
 }
 
-/* Footer (Optional) */
-footer {
-  text-align: center;
-  margin-top: 20px;
-  font-size: 0.9rem;
-  color: #888;
-}
