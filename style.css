@@ -12,7 +12,7 @@ header {
 }
 
 header h1 {
-  color: green; 
+  color: solid seagreen; 
   margin: 10px;
 }
 
@@ -32,7 +32,7 @@ a {
 
 .content h3 {
   font-size: 1.5;
-  color: seagreen;
+  color: solid seagreen;
   border-bottom: 2px solid lightseagreen; 
   padding-bottom: 5px;
   margin-bottom: 10px;
