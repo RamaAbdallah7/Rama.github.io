@@ -41,8 +41,7 @@ a:hover {
 }
 
 .content h3 {
-    color: #e76f51;
-    border-bottom: 2px solid  rgb(230, 110, 80);
+    color: seagreen;
     display: inline-block;
     padding-bottom: 5px;
     margin-bottom: 10px;
